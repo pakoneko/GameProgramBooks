@@ -42,7 +42,7 @@
 ### Lua
 
 - [x] [Programming in Lua 4th Edition](https://github.com/kurong00/GameProgram/blob/master/02.Programming%20Language/Lua/Programming%20in%20Lua%204th%20Edition.pdf)
-- [ ] Lua Programming Gems
+- [x] Lua Programming Gems(https://github.com/pakoneko/GameProgramBooks/blob/master/02.Programming%20Language/Lua/2.Lua%20Programming%20Gems.2008.pdf)
 
 ## 03.Software Development
 
